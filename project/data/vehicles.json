@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Mercedes AVTR",
+        "type": "car",
+        "price": "250",
+        "image": "https:\/\/i.ytimg.com\/vi\/ekgUjyWe1Yc\/maxresdefault.jpg"
+    },
+    {
+        "name": "Lamborghini",
+        "type": "car",
+        "price": "550",
+        "image": "https:\/\/m.media-amazon.com\/images\/I\/61Rx9tHudUL.jpg"
+    },
+    {
+        "name": "Toyota Urban Cruiser Hyryder",
+        "type": "car",
+        "price": "200",
+        "image": "https:\/\/imgd-ct.aeplcdn.com\/664x415\/n\/cw\/ec\/124093\/urban-cruiser-hyryder-right-front-three-quarter.jpeg"
+    },
+    {
+        "name": "Bangla Car",
+        "type": "1500CC",
+        "price": "350000",
+        "image": "https:\/\/thumbs.dreamstime.com\/b\/muscle-car-drawing-american-digital-32022218.jpg"
+    },
+    {
+        "name": " Triumph",
+        "type": "bike",
+        "price": "100",
+        "image": "https:\/\/www.motorcyclecruiser.com\/resizer\/Vv6yrEkq8aKfX8qXAFgFYZT6t7w=\/1000x750\/smart\/cloudfront-us-east-1.images.arcpublishing.com\/octane\/TTEFDH4IQ7UUVLCG3MMTVGLC6A.jpg"
+    }
+]
